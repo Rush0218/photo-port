@@ -7,7 +7,7 @@ exports[`Nav component matches snapshot 1`] = `
   >
     <h2>
       <a
-        data-testid="link "
+        data-testid="link"
         href="/"
       >
         <span
@@ -16,7 +16,7 @@ exports[`Nav component matches snapshot 1`] = `
         >
            📸
         </span>
-         Oh Snap !
+         Oh Snap!
       </a>
     </h2>
     <nav>
@@ -34,38 +34,10 @@ exports[`Nav component matches snapshot 1`] = `
           </a>
         </li>
         <li
-          class="mx-2"
+          class="mx-2 undefined"
         >
           <span>
             Contact
-          </span>
-        </li>
-        <li
-          class="mx-1"
-        >
-          <span>
-            Commercial
-          </span>
-        </li>
-        <li
-          class="mx-1"
-        >
-          <span>
-            Portraits
-          </span>
-        </li>
-        <li
-          class="mx-1"
-        >
-          <span>
-            Food
-          </span>
-        </li>
-        <li
-          class="mx-1"
-        >
-          <span>
-            Landscape
           </span>
         </li>
       </ul>
