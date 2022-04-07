@@ -1,4 +1,4 @@
-# Portfolio 2.0 
+# Photo Port 
 
 <p>
     <img src="https://img.shields.io/github/repo-size/rush0218/photo-port" />
